@@ -17,3 +17,13 @@
 [Java-Calculator](https://github.com/everglow0/Java-Calculator)
 
 [YunMark](https://github.com/GeekyMax/YunMark)
+
+## 基础
+
+基本的语法有种陌生的熟悉感
+
+## 总结
+
+直接上框架，反复基础什么时候是个头，本来就是一个组装工程师，干活第一步，有问题解决问题，面试就刷面试题，基础就刷基础题，算法和数据就刷算法数据题
+
+干活是干活，做题是做题
